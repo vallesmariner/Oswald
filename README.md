@@ -1,7 +1,7 @@
 # Oswald
 Oswald photo recreation.
 
-  This is open source, free, go have fun.  I made the Oswald 3d model, skin and rigged skeleton.  I tried to recreate the Lee Harvey Oswald scene.
+  This is open source, free, go have fun.  I made the Oswald 3d model, skin and rigged skeleton, so no one could request this be taken down via copyright claims.  I tried to recreate the Lee Harvey Oswald scene.
 
   I removed the reference photos for the human male that belong to illustratedmale.com
 
